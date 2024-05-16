@@ -113,7 +113,6 @@ nav li:first-child{
 }
 section{
     padding: 100px 200px;
-    z-index: 999;
 }
 .home .content{
     color: aliceblue;
